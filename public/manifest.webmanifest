@@ -1,0 +1,9 @@
+{
+  "name": "Wealth Action Playbook",
+  "short_name": "WAP",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#F3F4F6",
+  "theme_color": "#111827",
+  "icons": []
+}
